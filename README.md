@@ -2,4 +2,4 @@
 
 GH Pages is a free place to deploy
 
-Live app is here.
+Live app is [here](https://aldeez988.github.io/gh-pages/).
