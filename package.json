@@ -1,0 +1,23 @@
+{
+  "name": "percentages",
+  "version": "1.0.0",
+  "description": "percentage calculator",
+  "homepage": "https://github.com/aldeez988/gh-pages#readme",
+  "bugs": {
+    "url": "https://github.com/aldeez988/gh-pages/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aldeez988@github.com/aldeez988/gh-pages.git"
+  },
+  "license": "MIT",
+  "author": "aldeez",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "dependencies": {
+    "jest": "^30.4.2"
+  }
+}
